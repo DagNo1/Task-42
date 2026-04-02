@@ -27,6 +27,7 @@
     "mysql2": "^3.11.5",
     "pino": "^9.5.0",
     "pino-http": "^10.3.0",
+    "trailforge": "file:..",
     "zod": "^3.24.1"
   },
   "devDependencies": {
